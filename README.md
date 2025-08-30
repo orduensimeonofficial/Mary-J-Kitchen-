@@ -1,47 +1,61 @@
-# 🍲 Mary J’s Kitchen
+# 🍲 Mary J's Kitchen  
 
-**Mary J’s Kitchen** is a food service brand dedicated to delivering authentic African dishes, with a special focus on Nigerian recipes.  
-We operate **online and offline**, offering freshly prepared meals in both **individual (eatable)** and **family-sized** portions.  
-
-Whether you’re craving a quick bite, planning a family dinner, or hosting an event, Mary J’s Kitchen brings rich flavors straight to your doorstep with our reliable **door-to-door delivery** and **event catering services**.
+**Mary J’s Kitchen** is a food service brand dedicated to preparing and delivering authentic African meals, with a strong focus on Nigerian recipes. We operate **both online and offline**, offering convenience, reliability, and the rich taste of home-cooked food.  
 
 ---
 
-## 🚀 Features
+## 🚀 What We Offer  
 - ✅ Online & offline food ordering  
-- ✅ Authentic African/Nigerian meals  
-- ✅ Individual and family-sized portions  
-- ✅ Door-to-door delivery  
-- ✅ Food & drinks catering for events  
+- ✅ Door-to-door delivery services  
+- ✅ Individual (eatable) and family-sized meal portions  
+- ✅ Catering services for events (food & drinks)  
+- ✅ Authentic Nigerian & African recipes  
 
 ---
 
-## 📍 Coverage
-We serve customers both online and offline, ensuring convenience and accessibility.  
-Our services include delivery and catering for households, offices, and events.
+## 📦 Services  
+- **Quick Meals** – Freshly cooked African dishes delivered to your doorstep.  
+- **Family Portions** – Larger servings perfect for households.  
+- **Event Catering** – Food and drinks for parties, gatherings, or corporate events.  
 
 ---
 
-## 📦 Ordering Options
-- 🍴 **Eatable quantity** – single meals for individuals  
-- 👨‍👩‍👧‍👦 **Family-sized quantity** – meals for households or groups  
-- 🥂 **Events & occasions** – food and drinks for gatherings, parties, and more  
+## 🗺️ Coverage  
+We currently serve multiple locations across **Abuja, Nigeria**, ensuring customers enjoy **fresh, delicious food** wherever they are.  
 
 ---
 
-## 🛠️ Repository Information
-This repository documents the growth of **Mary J’s Kitchen**, including updates, releases, and service expansions.  
-Check out the [Releases](../../releases) section for our latest updates.
+## 📌 Getting Started  
+This repository will host:  
+- Release notes (updates & features)  
+- Service guides  
+- Menu updates  
+- Ordering instructions (future updates)  
 
 ---
 
-## 📞 Contact
-For inquiries, catering, or special orders, please reach out:  
-- 📧 Email: *[Add your email here]*  
-- 📱 Phone: *[Add phone number]*  
-- 🌐 Website: *[Add website if available]*  
+## 🏷️ Current Release  
+- **v1.0.0** – *First Taste Release* 🎉  
+  - Online & offline ordering  
+  - Family-sized and individual portions  
+  - Door-to-door delivery  
+  - Event catering  
+
+[👉 View Latest Release](../../releases/latest)  
 
 ---
 
-## 📌 License
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+## ❤️ Contributing  
+We welcome suggestions, feedback, and ideas to improve Mary J’s Kitchen. Please open an [issue](../../issues) to share your thoughts.  
+
+---
+
+## 📞 Contact  
+For orders, partnerships, or inquiries:  
+- **Phone/WhatsApp:** +234 703 699 6440  
+- **Email:** maryjdewhit@gmail.com  
+- **Location:** Abuja, Nigeria  
+
+---
+
+### ✨ Taste Tradition, Delivered Fresh.
